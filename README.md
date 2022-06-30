@@ -1,2 +1,2 @@
 # md-practice
-markdown test projest
+markdown test project
